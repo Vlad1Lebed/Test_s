@@ -1,3 +1,3 @@
-void f() {
+void Show() {
 	cout << "fff\n";
 }
