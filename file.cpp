@@ -1,3 +1,3 @@
 void f() {
-	cout << "fff\n";
+	cout << "fff\n3f";
 }
